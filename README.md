@@ -45,8 +45,8 @@ Create a trivia quiz game where users answer questions, track their scores, and 
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/Quiz_Quest.git](https://github.com/HooriaSaeeda/Quiz_Quest.git)
-- Live Site URL: [ https://hoor23.github.io/Quiz_Quest/](https://hoor23.github.io/Quiz_Quest/)
+- Solution URL: [https://github.com/HooriaSaeeda/Quiz_Quest.git](https://github.com/HooriaSaeeda/Quiz_Quest.git)
+- Live Site URL: [https://hooriasaeeda.github.io/Quiz_Quest/](https://hooriasaeeda.github.io/Quiz_Quest/)
 
 ## My process
 
