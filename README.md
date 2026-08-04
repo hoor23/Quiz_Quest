@@ -45,7 +45,7 @@ Create a trivia quiz game where users answer questions, track their scores, and 
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/Quiz_Quest.git](https://github.com/hoor23/Quiz_Quest.git)
+- Solution URL: [https://github.com/hoor23/Quiz_Quest.git](https://github.com/HooriaSaeeda/Quiz_Quest.git)
 - Live Site URL: [ https://hoor23.github.io/Quiz_Quest/](https://hoor23.github.io/Quiz_Quest/)
 
 ## My process
@@ -71,11 +71,11 @@ Create a trivia quiz game where users answer questions, track their scores, and 
 - **Performance Optimization**: Refactoring code to improve performance and maintainability.
 - **Expanded API Integration**: Integrating additional trivia sources or features.
 
-
 ## Author
 
-- **GitHub**: [https://github.com/hoor23e](https://github.com/hoor23) 
-- **Email**: [hoorseyda14@gmail.com](hoorseyda14@gmail.com)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
